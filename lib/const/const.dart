@@ -1,0 +1,166 @@
+import 'package:get/get.dart';
+
+class Dimensions {
+  static double screenHeight = Get.context!.height;
+  static double screenWidth = Get.context!.width;
+
+  //height
+
+  static double height415 = screenHeight / 1;
+  static double height87 = screenHeight / 4.7701;
+  static double height89 = screenHeight / 4.662;
+  static double height226 = screenHeight / 1.8362;
+  static double height45 = screenHeight / 9.22;
+  static double height295 = screenHeight / 1.4067;
+  static double height36 = screenHeight / 11.5277;
+  static double height72 = screenHeight / 5.763;
+  static double height69 = screenHeight / 6.0144;
+  static double height43 = screenHeight / 9.651;
+  static double height34 = screenHeight / 12.2058;
+  static double height320 = screenHeight / 1.2968;
+  static double height96 = screenHeight / 4.3229;
+  static double height170 = screenHeight / 2.4411;
+  static double height30 = screenHeight / 13.83;
+  static double height82 = screenHeight / 5.0609;
+  static double height76 = screenHeight / 5.46052;
+  static double height127 = screenHeight / 3.2677;
+  static double height178 = screenHeight / 2.3314;
+  static double height229 = screenHeight / 1.8122;
+  static double height280 = screenHeight / 1.4821;
+  static double height31 = screenHeight / 13.3870;
+  static double height25 = screenHeight / 16.6;
+  static double height176 = screenHeight / 2.3579;
+  static double height284 = screenHeight / 1.461;
+  static double height414 = screenHeight / 1.461;
+  static double height104 = screenHeight / 3.99038;
+  static double height145 = screenHeight /2.862;
+  static double height246 = screenHeight /1.68699;
+  static double height35 = screenHeight /11.857;
+  static double height55 = screenHeight /7.545;
+  static double height122 = screenHeight /3.4016;
+  static double height135 = screenHeight /3.074;
+  static double height164 = screenHeight /2.5304;
+  static double height194 = screenHeight /2.1391;
+  static double height19 = screenHeight /21.842;
+  static double height174 = screenHeight /2.385;
+  static double height204 = screenHeight /2.0343;
+  static double height335 = screenHeight /1.2388;
+  static double height85 = screenHeight /4.8823;
+  static double height300 = screenHeight /1.3833;
+  static double height16 = screenHeight /25.9375;
+  static double height26 = screenHeight /15.9615;
+  static double height105 = screenHeight /3.9523;
+  static double height66 = screenHeight /6.28787;
+  static double height20 = screenHeight /20.75;
+  static double height120 = screenHeight /3.458;
+  static double height41 = screenHeight /10.1219;
+  static double height183 = screenHeight /2.2677;
+  static double height123 = screenHeight /3.3739;
+  static double height107 = screenHeight /3.8785;
+  static double height247 = screenHeight /1.666;
+  static double height317 = screenHeight /1.2968;
+  static double height190 = screenHeight /2.1842;
+  static double height260 = screenHeight /1.596;
+  static double height330 = screenHeight /1.2575;
+  static double height17 = screenHeight /24.4117;
+  static double height38 = screenHeight /10.921;
+  static double height100 = screenHeight /4.15;
+  static double height111 = screenHeight /1.7387;
+  static double height15 = screenHeight /27.666;
+  static double height90 = screenHeight /4.611;
+  static double height94 = screenHeight /4.4148;
+  static double height114 = screenHeight /3.6403;
+  static double height40 = screenHeight /10.375;
+  static double height215 = screenHeight /1.9302;
+  static double height23 = screenHeight /18.043;
+  static double height47 = screenHeight /8.8297;
+  static double height175 = screenHeight /2.3714;
+  static double height57 = screenHeight /7.2807;
+  static double height230 = screenHeight /1.8043;
+  static double height290 = screenHeight /1.431;
+  static double height184 = screenHeight /2.2554;
+  static double height80 = screenHeight /5.1875;
+  static double height74 = screenHeight /5.6081;
+  static double height160 = screenHeight /2.5937;
+  static double height70 = screenHeight /5.9285;
+  static double height343 = screenHeight /1.2099;
+  static double height65 = screenHeight /6.3846;
+  static double height165 = screenHeight /2.515;
+  static double height63 = screenHeight /6.587;
+  static double height166 = screenHeight /2.5;
+
+
+
+  //width
+  static double width775 = screenWidth / 1;
+  static double width296 = screenWidth / 2.6182;
+  static double width172 = screenWidth / 4.5058;
+  static double width228 = screenWidth / 3.3991;
+  static double width185 = screenWidth / 4.1891;
+  static double width20 = screenWidth / 38.75;
+  static double width45 = screenWidth / 17.22;
+  static double width244 = screenWidth / 3.1762;
+  static double width241 = screenWidth / 3.2157;
+  static double width170 = screenWidth / 4.5588;
+  static double width514 = screenWidth / 1.50778;
+  static double width217 = screenWidth / 3.571;
+  static double width534 = screenWidth / 1.451;
+  static double width386 = screenWidth / 2.0077;
+  static double width178 = screenWidth / 4.353;
+  static double width284 = screenWidth / 2.7288;
+  static double width29 = screenWidth / 26.7241;
+  static double width31 = screenWidth / 25;
+  static double width231 = screenWidth / 3.3549;
+  static double width179 = screenWidth / 4.3296;
+  static double width130 = screenWidth / 5.9615;
+  static double width316 = screenWidth /2.45253;
+  static double width326 = screenWidth /2.3773;
+  static double width30 = screenWidth /25.833;
+  static double width295 = screenWidth /1.962;
+  static double width37 = screenWidth /20.9459;
+  static double width81 = screenWidth /9.5679;
+  static double width71 = screenWidth /10.9154;
+  static double width275 = screenWidth /2.818;
+  static double width204 = screenWidth /3.7990;
+  static double width308 = screenWidth /2.5162;
+  static double width104 = screenWidth /7.4519;
+  static double width395 = screenWidth /1.9620;
+  static double width260 = screenWidth /2.9807;
+  static double width210 = screenWidth /3.69047;
+  static double width360 = screenWidth /2.15277;
+  static double width220 = screenWidth /3.5227;
+  static double width10 = screenWidth /77.5;
+  static double width350 = screenWidth /2.21428;
+  static double width430 = screenWidth /1.8023;
+  static double width118 = screenWidth /6.5677;
+  static double width280 = screenWidth /2.7678;
+  static double width62 = screenWidth /12.5;
+  static double width250 = screenWidth /3.1;
+  static double width40 = screenWidth /19.375;
+  static double width617 = screenWidth /1.256;
+  static double width306 = screenWidth /2.5326;
+  static double width405 = screenWidth /1.9135;
+  static double width22 = screenWidth /35.227;
+  static double width91 = screenWidth /8.5164;
+  static double width499 = screenWidth /1.5531;
+  static double width184 = screenWidth /4.2119;
+  static double width90 = screenWidth /8.611;
+  static double width50 = screenWidth /15.5;
+  static double width126 = screenWidth /6.150;
+  static double width16 = screenWidth /48.4375;
+  static double width24 = screenWidth /32.29;
+  static double width272 = screenWidth /2.849;
+  static double width292 = screenWidth /2.654;
+  static double width302 = screenWidth /2.5662;
+  static double width264 = screenWidth /2.9356;
+  static double width390 = screenWidth /1.987;
+  static double width88 = screenWidth /8.8068;
+  static double width475 = screenWidth /1.6315;
+  static double width274 = screenWidth /2.8284;
+  static double width530 = screenWidth /1.4622;
+
+
+
+
+
+}

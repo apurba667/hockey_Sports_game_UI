@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:hockeysports/const/const.dart';
 
 class LoadingOnePage extends StatelessWidget {
   const LoadingOnePage({Key? key}) : super(key: key);
@@ -8,27 +9,27 @@ class LoadingOnePage extends StatelessWidget {
     return Scaffold(
       body: Stack(children: [
         Container(
-          height: 415,
-          width: 775,
+          height: Dimensions.height415,
+          width: Dimensions.width775,
           child: Image.asset("assets/loading.png",fit: BoxFit.fill,),
         ),
         Positioned(
-          top: 70,
-            left: 31,
-            height: 343,
-            width: 390,
+          top: Dimensions.height70,
+            left: Dimensions.width31,
+            height: Dimensions.height343,
+            width: Dimensions.width390,
             child: Image.asset("assets/lo.png",fit: BoxFit.cover,)),
         Positioned(
-            top: 166,
-            left: 274,
-            height: 65,
-            width: 250,
+            top: Dimensions.height166,
+            left: Dimensions.width274,
+            height: Dimensions.height74,
+            width: Dimensions.width250,
             child: Image.asset("assets/HOCKEYSPOR.png",fit: BoxFit.contain,)),
         Positioned(
-            top: 165,
-            left: 475,
-            height: 63,
-            width: 88,
+            top: Dimensions.height165,
+            left: Dimensions.width475,
+            height: Dimensions.height63,
+            width: Dimensions.width88,
             child: Image.asset("assets/loadingballpng.png",fit: BoxFit.cover,)),
       ],),
     );
